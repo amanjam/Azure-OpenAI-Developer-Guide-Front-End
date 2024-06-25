@@ -15,7 +15,7 @@ echo ""
 echo "Set environment variable"
 echo ""
 
-export API_ENDPOINT="https://localhost:4242"
+export API_ENDPOINT="https://containerapp4.calmsea-2191e373.australiaeast.azurecontainerapps.io"
 
 echo ""
 echo "Building frontend"
