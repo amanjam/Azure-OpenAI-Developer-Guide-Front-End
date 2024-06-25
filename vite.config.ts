@@ -22,13 +22,13 @@ export default defineConfig({
             }
         },
         target: "esnext"
-    },
-    server: {
-        proxy: {
-            "/content/": "http://localhost:50505",
-            "/ask": "http://localhost:50505",
-            "/chat": "http://localhost:50505",
-            "/config": "http://localhost:50505"
-        }
     }
+    // server: {
+    //     proxy: {
+    //         "/content/": "http://localhost:50505",
+    //         "/ask": "http://localhost:50505",
+    //         "/chat": "http://localhost:50505",
+    //         "/config": "http://localhost:50505"
+    //     }
+    // }
 });
