@@ -15,7 +15,7 @@ echo ""
 echo "Set environment variable"
 echo ""
 
-export APPSETTING_API_ENDPOINT="https://localhost:4242"
+export API_ENDPOINT="https://localhost:4242"
 
 echo ""
 echo "Building frontend"
