@@ -29,7 +29,7 @@ const Layout = () => {
                             </li>
                         </ul>
                     </nav>
-                    <h4 className={styles.headerRightText}>CosmicWorks</h4>
+                    <h4 className={styles.headerRightText}>Hypertrophy Coach Copilot</h4>
                 </div>
             </header>
 
